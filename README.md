@@ -1,2 +1,2 @@
-# Power-Consumption-analysis-Data-analysis-and-Machine-Learninig-
+# Power-Consumption-analysis-
 Description-The project analyses the electricity consumption of individual appliances of a household using the data over a span of 4 years. Regular consumption is captured through the sensor and stored in a database. We identify the energy consumption patterns, get insights from the data and suggest the user based on the insights about the reduction of power consumption. We then apply the machine learning modelling to forecast and predict the global active power of the household. The machine learning model is deployed using a  local host flask Web application to provide a good UI for prediction.
